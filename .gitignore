@@ -1,0 +1,6 @@
+database
+file_dataset
+preprocessedDataset
+__pycache__
+.venv
+.idea
